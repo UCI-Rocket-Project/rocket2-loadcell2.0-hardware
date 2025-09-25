@@ -4089,7 +4089,7 @@
 		)
 		(uuid "41e802d0-c7f4-4c10-8756-44bcaf9100d5")
 	)
-	(text "Low Pass Filter\nCutoff Frequency ~1591 Hz\nRisk: Unlikely, but if load cell does resonate\nwe'll get noisy oscillations in our readings"
+	(text "Low Pass Filter\nCutoff Frequency ~1591 Hz\nRisk: Unlikely, but if load cell does resonate\nwe may get noisy oscillations in our readings"
 		(exclude_from_sim no)
 		(at 180.594 92.202 0)
 		(effects
@@ -7080,7 +7080,7 @@
 				)
 			)
 		)
-		(property "Value" "~"
+		(property "Value" "J1"
 			(at 113.03 33.02 0)
 			(effects
 				(font
@@ -10375,7 +10375,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af2e7efb-1877-42b6-8ce7-d063b62f5fa0")
-		(property "Reference" "U4"
+		(property "Reference" "U3"
 			(at 148.59 171.45 0)
 			(effects
 				(font
@@ -10430,7 +10430,7 @@
 		(instances
 			(project ""
 				(path "/d1f04dc8-a56c-4379-8ad0-2916e7244fc3"
-					(reference "U4")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -11055,7 +11055,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c28a84ec-5e8f-4792-a0c4-9699b4efdd08")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 259.08 137.16 0)
 			(effects
 				(font
@@ -11141,7 +11141,7 @@
 		(instances
 			(project "rocket2-load-cell"
 				(path "/d1f04dc8-a56c-4379-8ad0-2916e7244fc3"
-					(reference "U3")
+					(reference "U2")
 					(unit 1)
 				)
 			)

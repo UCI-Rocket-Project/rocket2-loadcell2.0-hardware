@@ -4202,7 +4202,7 @@
 	)
 	(text "Voltage divider reduces \nUSB VBUS from 5V to 3V \nto be sensed at GPIO.\n(Safe voltage + current)\n"
 		(exclude_from_sim no)
-		(at 105.156 81.026 0)
+		(at 123.19 95.758 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -8009,7 +8009,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "45daaa81-51df-43cc-a1b9-f2eb07fbdba8")
 		(property "Reference" "J3"
 			(at 116.84 138.43 0)
@@ -10452,7 +10451,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_Wire:SolderWire-0.1sqmm_1x02_P3.6mm_D0.4mm_OD1mm"
+		(property "Footprint" ""
 			(at 158.75 146.05 0)
 			(effects
 				(font
